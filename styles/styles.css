@@ -1,8 +1,6 @@
 #header,
 .food-name,
-.desc,
-.ingredients,
-.steps {
+.food-headers {
   text-align: center;
   font-family: "Brush Script MT", cursive, sans-serif;
   font-weight: 800;
@@ -17,9 +15,7 @@
   font-size: 50px;
 }
 
-.desc,
-.ingredients,
-.steps {
+.food-headers {
   font-size: 35px;
   text-align: left;
 }
