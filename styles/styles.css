@@ -1,9 +1,34 @@
-#header {
+#header,
+.food-name,
+.desc,
+.ingredients,
+.steps {
   text-align: center;
   font-family: "Brush Script MT", cursive, sans-serif;
-  font-size: 60px;
   font-weight: 800;
   color: rgb(12, 65, 240);
+}
+
+#header {
+  font-size: 60px;
+}
+
+.food-name {
+  font-size: 50px;
+}
+
+.desc,
+.ingredients,
+.steps {
+  font-size: 35px;
+  text-align: left;
+}
+
+.contents {
+  font-family: sans-serif, serif;
+  font-size: 18px;
+  color: black;
+  text-align: left;
 }
 
 #list {
@@ -13,4 +38,12 @@
 
 * {
   background-color: rgb(253, 209, 216);
+}
+
+.food-pic {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
+  display: block;
 }
