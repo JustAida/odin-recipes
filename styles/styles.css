@@ -1,0 +1,16 @@
+#header {
+  text-align: center;
+  font-family: "Brush Script MT", cursive, sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+  color: rgb(12, 65, 240);
+}
+
+#list {
+  font-family: "Brush Script MT", cursive, sans-serif;
+  font-size: 25px;
+}
+
+* {
+  background-color: rgb(253, 209, 216);
+}
