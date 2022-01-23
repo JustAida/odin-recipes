@@ -1,2 +1,2 @@
 # odin-recipes
-The current project is to create a website that has a main index page which will link to a few recipes. This will demonstrate that I have learned how to create boilerplate for html, how to use html tags to create a website.
+The current project is to create a website that has a main index page which will link to a few recipes. This will demonstrate that I have learned how to create boilerplate for HTML, how to use HTML elements to create a website and how to add style to it using CSS.
